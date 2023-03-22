@@ -1,0 +1,262 @@
+.nav ul li{
+    display: inline;
+   margin-left: 12%;
+
+}
+#flag{
+   width: 50px;
+   height: 50px;
+}
+.brickhouse3{
+   background-color: yellow;
+   display: flex;
+}
+
+#brick{
+   width: 60px;
+   height: 60px;
+}
+#catalog{
+   margin-top: 5%;
+   padding-left: 3%;
+   margin-left: 10%;
+   padding-top: 15px;
+   padding-bottom: 15px;
+}
+#searches{
+   background-color: #4CAF50; /* Green */
+   border: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin-left: 20%;
+  
+}
+.icon3{
+   margin-left: 10%;
+   font-size: 30px;
+   
+}
+.main{
+   margin-left: 5%;
+}
+.atedi{
+   display: flex;
+}
+.but1{
+   border-radius: 30px;
+   color: white;
+   background-color: red;
+}
+#padi1{
+   width: 650px;
+   height: 650px;
+}
+.smallies{
+   display: flex;
+}
+#padi0{
+width: 100px;
+height: 100px;
+}
+#padi2{
+   width: 100px;
+   height: 100px;     
+}
+#padi3{
+   width: 100px;
+height: 100px;
+}
+#padi4{
+   width: 100px;
+height: 100px;
+}
+#padid{
+   width: 100px;
+height: 100px;
+}
+#copy{
+   width: 100px;
+height: 100px;
+padding: 20px;
+}
+.butra{
+   border-radius: 100px;
+   font-size: 50px;
+   color: yellow;
+   border-color: yellow;
+}
+.carry{
+   margin-left: 60%;
+   margin-top: -45%;
+   font-size: 30px;
+}
+.checked{
+   color: yellow;
+   font-size: 20px;
+}
+.didooh{
+   display: flex;
+}
+.doh1{
+   font-size: 30px;
+}
+.doh2{
+   padding-left: 30px;
+   font-size: 30px;
+   color: grey;
+}
+.icons{
+   font-size: 50px;
+}
+.bag{
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 50px;
+   padding-right: 50px;
+   color: black;
+   background-color: yellow;
+   margin-top: 5%;
+}
+.see{
+   color: red;
+}
+.green{
+   color: greenyellow;
+}
+.grey{
+   background-color: grey;
+}
+.sabi{
+background-color: brown;
+font-size: 20px;
+}
+.nova{
+background-color: red;
+font-size: 20px;
+}
+.deli{
+background-color: yellow;
+font-size: 20px;
+}
+.act{
+   margin-left: 10%;
+   margin-top: -2%;
+}
+.now{
+   color: green;
+}
+.knowing{
+   display: flex;
+   margin-top: 10%;
+   
+}
+.About{
+   display: flex;
+   margin-top: 10%;
+   margin-left: 40%;
+}
+.bout{
+   padding-left: 50px;
+   padding-right: 50px;
+   margin-left: 5%;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   background-color: yellow;
+
+}
+.views{
+   padding-right: 50px;
+   padding-left: 50px;
+   margin-left: 10%;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   background-color: grey;
+}
+.deos{
+   padding-left: 50px;
+   padding-right: 50px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   margin-left: 15%;
+   background-color: grey;
+}
+.background{
+   background-color: grey;
+   height: 3px;
+}
+.fun{
+   margin-left: 42%;
+}
+.rise{
+   margin-left: 25%;
+   font-size: 25px;
+}
+#mash1{
+   height: 300px;
+   width: 500px;
+   margin-left: 20%;
+   border: solid;
+   border-color: yellow;
+}
+#mash2{
+   height: 300px;
+   width: 500px;
+   margin-left: 1%;
+   border: solid;
+   border-color: yellow;
+}
+#mash3{
+   height: 300px;
+   width: 500px;
+   margin-left: 35%;
+   border: solid;
+   border-color: yellow;
+}
+#lego1{
+   width: 275px;
+   height: 250px;
+   padding-right: 60px;
+   
+}
+#lego2{
+   width: 290px;
+   height: 190px;
+   padding: 20px;
+}
+.santorini{
+   display: flex;
+   margin-left: 10%;
+   justify-content: space-between;
+}
+#lego4{
+   width: 290px;
+   height: 250px;
+   padding: 30px;
+   margin-top: -10%;
+}
+#lego5{
+   width: 290px;
+   height: 200px;
+   padding: 30px;
+   margin-top: -8%;
+   margin-top: 6%;
+
+}
+.love{
+   margin-left: 60%;
+   margin-bottom: -3%;
+}
+.but{
+   background-color: red;
+}
+.footer{
+   background-color: purple;
+   display: flex;
+   justify-content: space-between;
+ }
+ .cones2{
+   font-size: 30px;}
