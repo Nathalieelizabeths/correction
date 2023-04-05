@@ -36,25 +36,29 @@
    
 }
 #padi2{
-   width: 15%;
-   height: 90%;
+   width: 20%;
+   height: 100%;
    
+   
+}
+.pictures1{
+   margin-top: 5%;
 }
 
 #webp{
-   width: 15%;
-   height: 90%;
+   width: 20%;
+   height: 100%;
 }
 #webs{
-   width: 15%;
-   height: 90%;
+   width: 20%;
+   height: 100%;
 }
 .pictures1{
    display: grid;
 }
 .bomber{
    margin-left: 20%;
-   margin-top: -35%;
+   margin-top: -40%;
 }
 .holder{
    /* display: inline-flex; */
@@ -62,7 +66,7 @@
 }
 .numeros{
    margin-left: 55%;
-   margin-top: -30%;
+   margin-top: -35%;
 }
 .p1,.p2,.p3{
    margin-left: 5%;
@@ -81,19 +85,23 @@
    padding-bottom: 6px;
    padding-top: 6px;
 }
+.head1,.head2,.head3{
+   margin-top: -15%;
+   margin-left: 10%;
+}
 .head2,.head3{
    margin-top: 10%;
 }
 .numero2,.numero3{
-   margin-top: 20%;
+   margin-top: 30%;
 }
 .product{
    border: solid;
-   border-radius: 5%;
+   border-radius: 20%;
    margin-left: 70%;
-   margin-top: -20%;
-   font-size: 40px;
-   border-width: 10%;
+   margin-top: -28%;
+   font-size: 30px;
+   width: 20%;
    padding-left: 40px;
 
 }
@@ -103,7 +111,20 @@
    padding-top: 3%;
    padding-bottom: 3%;
    border-color: greenyellow;
+   border: solid;
+   margin-left: 7%;
+   border-radius: 10%;
+}
+.thrash1,.thrash2,.thrash3{
+   margin-left: 15%;
+   margin-top: -5%;
+   font-size: 40px;
+   color: gray;
    
+}
+.cone1,.cone2,.cone3{
+   font-size: 40px;
+   margin-left: 8%;
 }
 .save{
    padding-left: 20%;
@@ -112,8 +133,12 @@
    padding-bottom: 3%;
    background-color: yellow;
    color: white;
+   border: solid;
+   margin-left: 7%;
+   border-radius: 10%;
 }
  
+
 #g13,#g14,#g15,#g16{
    width: 60%;
    height: 70%;
@@ -127,4 +152,72 @@
    background-color: purple;
    display: flex;
    justify-content: space-between;
+ }
+ @media(max-width:768px){
+   .home{
+      display: grid;
+      grid-template: repeat(1,1fr);
+   }
+   .nav ul li{
+      display: block;
+      margin-right: 150px;
+   }
+   .brick{
+      width: 30%;
+      height: 30%;
+   }
+   #flag{
+width: 10%;
+height: 10%;
+   }
+   #catalog{
+    margin-left: 5px;
+   }
+   #search{
+   margin: left 5px;;
+   }
+   .footer{
+      display:grid;
+   }
+   .lego{
+      display: grid;
+   }
+   .icon{
+      margin-left: 20px;
+      font-size: 10px;
+   }
+   .product{
+      display: grid;
+      width: 10%;
+   }
+   .bomber{
+      margin-left: 10%;
+      margin-top: 10%;
+   }
+   .cone1,.cone2,.cone3{
+      font-size: 10px;
+      margin-top: 10%;
+      margin-left: 10%;
+   }
+   .thrash1,.thrash2,.thrash3{
+      font: size 10px;
+      margin-top: 10%;
+      margin-left: 10%;
+   }
+   .numeros{
+      margin-top: 10%;
+      margin-left: 15%;
+     }
+     .numero2,.numero3{
+      margin-top: 10%;
+   }
+   .head1,.head2,.head3{
+      font-size: 10px;
+      margin-top: 10%;
+      margin-left: 10%;
+   }
+   .pictures1{
+      margin-top: 10%;
+      margin-left: 10%;
+   }
  }

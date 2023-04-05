@@ -35,7 +35,62 @@
 margin-right: 25%;
    }
    .end{
-margin-right: 25%;
+display: grid;
    }
+   .bomber{
+    margin-top: 10%;
+    margin-left: 10%;
+    display: inline-flex;
+   }
+   .product{
+    /* margin-left: 35%;
+    margin-top: -10%;
+    font-size: 10px;
+    padding-top: 10px; */
+    width: 20%;
+   }
+   .order{
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 10%;
+    margin-left: 2%;
+   }
+   .save{
+    padding-left: 10%;
+    padding-right: 10%;
+    border-radius: 5%;
+    margin-left: 5%;
+   }
+   .numeros{
+    margin-top: 10%;
+    margin-left: 15%;
+    font-size: 10px;
+   }
+   .numero2,.numero3{
+    margin-top: 10%;
+ }
+ .pictures1{
+    margin-top: 10%;
+    margin-left: 10%;
+ }
+ .head1,.head2,.head3{
+    font-size: 10px;
+    margin-top: 10%;
+    margin-left: 10%;
+ }
+ .cone1,.cone2,.cone3{
+    font-size: 10px;
+    margin-top: 10%;
+    margin-left: 10%;
+ }
+ .thrash1,.thrash2,.thrash3{
+    font: size 10px;
+    margin-top: 10%;
+    margin-left: 10%;
+ }
+ .product2{
+    font-size: 10px;
+    
+ }
 
 }
