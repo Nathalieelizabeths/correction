@@ -1,0 +1,130 @@
+.nav ul li{
+    display: inline;
+   margin-left: 12%;
+
+}
+#flag{
+   width: 50px;
+   height: 50px;
+}
+.brickhouse{
+   background-color: yellow;
+   display: flex;
+}
+#brick{
+   width: 60px;
+   height: 60px;
+}
+#catalog{
+   margin-top: 5%;
+   padding-left: 3%;
+   margin-left: 10%;
+   padding-top: 15px;
+   padding-bottom: 15px;
+}
+#search{
+   margin-top: 5%;
+   margin-left: 3%;
+   padding-right: 15%;
+   padding-top: 15px;
+   padding-bottom: 15px;
+}
+.icon{
+   margin-left: 45%;
+   margin-top: 3%;
+   font-size: 20px;
+   
+}
+#padi2{
+   width: 15%;
+   height: 90%;
+   
+}
+
+#webp{
+   width: 15%;
+   height: 90%;
+}
+#webs{
+   width: 15%;
+   height: 90%;
+}
+.pictures1{
+   display: grid;
+}
+.bomber{
+   margin-left: 20%;
+   margin-top: -35%;
+}
+.holder{
+   /* display: inline-flex; */
+   gap: 40%;
+}
+.numeros{
+   margin-left: 55%;
+   margin-top: -30%;
+}
+.p1,.p2,.p3{
+   margin-left: 5%;
+   margin-top: -2%;
+   color: grey;
+}
+.but1,.but2,.but3{
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-bottom: 6px;
+   padding-top: 6px;
+}
+.but6,.but5,.but4{
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-bottom: 6px;
+   padding-top: 6px;
+}
+.head2,.head3{
+   margin-top: 10%;
+}
+.numero2,.numero3{
+   margin-top: 20%;
+}
+.product{
+   border: solid;
+   border-radius: 5%;
+   margin-left: 70%;
+   margin-top: -20%;
+   font-size: 40px;
+   border-width: 10%;
+   padding-left: 40px;
+
+}
+.order{
+   padding-left: 20%;
+   padding-right:20% ;
+   padding-top: 3%;
+   padding-bottom: 3%;
+   border-color: greenyellow;
+   
+}
+.save{
+   padding-left: 20%;
+   padding-right:20% ;
+   padding-top: 3%;
+   padding-bottom: 3%;
+   background-color: yellow;
+   color: white;
+}
+ 
+#g13,#g14,#g15,#g16{
+   width: 60%;
+   height: 70%;
+}
+.lego{
+   display: inline-flex;
+   margin-top: 20%;
+   margin-left: 10%;
+}
+.footer{
+   background-color: purple;
+   display: flex;
+   justify-content: space-between;
+ }
